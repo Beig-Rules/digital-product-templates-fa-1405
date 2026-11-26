@@ -1,2 +1,4 @@
-# digital-product-templates-fa-1405
-پک قالب‌های حرفه‌ای فارسی مینیمال
+# پک قالب‌های فارسی
+صفحه فروش محصول دیجیتال
+
+https://beig-rules.github.io/digital-product-templates-fa-1405/
